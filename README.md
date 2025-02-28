@@ -16,7 +16,7 @@ O arquivo original.py foi uma tentativa de desenvolver como estava do diagrama, 
  - Listagem de clientes
  - Listagem de contas bancárias
 
-É possível escolher para qual cliente será criado a conta bancária informando seu CPF. Para as operações de depósito, saque e consultas, é possível escolher a conta bancária que será utilizada informando o número da conta.
+É possível escolher para qual cliente será criado a conta bancária informando o CPF. Para as operações de depósito, saque e consultas, é possível escolher a conta bancária que será utilizada informando o número da conta.
 
 ## Diagrama
 
