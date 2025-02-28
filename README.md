@@ -1,4 +1,4 @@
-# Modelando o Sistema Bancario em POO com Python
+# Modelando o Sistema Bancário em POO com Python
 
 O objetivo do projeto era desenvolver um código em Python com base em um diagrama de classes.
 
