@@ -20,4 +20,4 @@ O arquivo original.py foi uma tentativa de desenvolver como estava do diagrama, 
 
 ## Diagrama
 
-<img src="diagrama.png" width="600">
+<img src="diagrama.png" width="750">
